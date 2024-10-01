@@ -1,2 +1,2 @@
 # cibig_git_practice
-This repository was created to git pratical exercises CIBIG 2024.
+This repository was created to git pratical exercises on the CIBIG 2024.
